@@ -16,7 +16,7 @@ successful, failed, and canceled (live outcomes were excluded).  Rows were the m
 based on the kickstarter parent category of "theater".  All theater subcategories were included. When visualizing the data in a line graph month-by-month
 to see the trends of successful, failed, and canceled, we get the following chart:
 
-[chart1]
+![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/91292960/135783620-4114e317-adf2-4550-89b7-67b37ea7c036.png)
 
 ### Analysis of Outcomes Based on Goals
 
@@ -26,7 +26,7 @@ projects for each outcome:  successful, failed, and canceled (excluding live pro
 bucket were calculated as well as the percentage for each outcome.  This data was then plotted to a line graph based on buckets in the x-axis, percentages
 in the y-axis and lines for each outcome.  The result is shown below:
 
-[chart2] 
+![Outcomes_vs_Goals](https://user-images.githubusercontent.com/91292960/135783564-1cc96712-4b30-4b9b-aa57-0a256feb3419.png)
 
 ### Challenges and Difficulties Encountered
 
